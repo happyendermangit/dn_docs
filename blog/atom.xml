@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+    <id>https://dn.happyenderman.com/blog</id>
+    <title>Datamine notifications Blog</title>
+    <updated>2021-08-01T00:00:00.000Z</updated>
+    <generator>https://github.com/jpmonette/feed</generator>
+    <link rel="alternate" href="https://dn.happyenderman.com/blog"/>
+    <subtitle>Datamine notifications Blog</subtitle>
+    <icon>https://dn.happyenderman.com/img/favicon.ico</icon>
+    <entry>
+        <title type="html"><![CDATA[Blogs]]></title>
+        <id>https://dn.happyenderman.com/blog/mdx-blog-post</id>
+        <link href="https://dn.happyenderman.com/blog/mdx-blog-post"/>
+        <updated>2021-08-01T00:00:00.000Z</updated>
+        <summary type="html"><![CDATA[Check Our docs]]></summary>
+        <content type="html"><![CDATA[<p>Check <a href="https://dn.happyenderman.com/docs/intro">Our docs</a></p>]]></content>
+        <author>
+            <name>Happy enderman</name>
+            <uri>https://github.com/happyendermangit</uri>
+        </author>
+    </entry>
+</feed>
